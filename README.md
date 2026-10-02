@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a Computer Science student with a strong interest in Data Engineering and building reliable data systems. I enjoy working with data and turning raw, messy information into clean and structured datasets that can be used for analysis and decision-making.<br><br>Currently, I’m focusing on building practical ETL projects using Python, Pandas, REST APIs, PostgreSQL, and SQL, while also working with Git, GitHub, Docker, and Linux. I’m currently learning Apache Airflow and advanced Data Engineering concepts to better understand how real-world data pipelines are designed, automated, and maintained.<br><br>I’m always looking to collaborate on Data Engineering and ETL projects where I can contribute, learn from others, and gain experience solving real-world data problems. My goal is to continuously improve my skills and eventually work with modern data platforms, cloud technologies, and scalable data systems.
+I’m a Computer Science student focused on Data Engineering and building reliable data pipelines. I enjoy working with raw and messy data, transforming it into clean, structured, and analysis-ready datasets.
+
+Currently, I’m building practical ETL projects using Python, Pandas, REST APIs, PostgreSQL, and SQL, while working with Git, GitHub, Docker, and Linux. I’m also learning Apache Airflow and expanding my understanding of data pipeline orchestration, automation, and scalable data systems.
+
+I’m interested in Data Engineering and ETL projects where I can learn through real-world problems, contribute to meaningful solutions, and continue growing toward modern data platforms and cloud technologies.
 
 
 ## 🌐 Socials:
